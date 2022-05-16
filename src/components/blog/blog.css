@@ -1,0 +1,18 @@
+.blog h2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 115px;
+}
+
+.blog-btn {
+  background: #E30000;
+}
+
+.blog-platinum {
+  background: linear-gradient(90deg, #CCCCCC 0%, #FFFFFF 50.94%, #CCCCCC 100%);
+}
+
+.blog-container {
+  background: #F3E8E5;
+}

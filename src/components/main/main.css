@@ -1,0 +1,100 @@
+h2 {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+}
+
+.main-container {
+  height: 93.8vh;
+  overflow: hidden;
+}
+
+.main-bg {
+  background: #C41E3A;
+  top: 28rem;
+  background-position: contain;
+  position: absolute;
+  height: 54vh;
+  width: 50rem;
+  right: 6rem;
+  z-index: -1;
+}
+
+.main-btn {
+  background: #C41E3A;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);
+}
+
+/* .main-styles {
+  display: block;
+} */
+.main-styles1 {
+  /* Ellipse 12 */
+
+  position: absolute;
+  width: 429px;
+  height: 404px;
+  left: 1662px;
+  top: 132px;
+  z-index: -2;
+  border-radius: 100%;
+
+  background: #F1DED5;
+
+}
+
+.main-styles2 {
+
+  /* Ellipse 11 */
+
+  position: absolute;
+  width: 327px;
+  height: 272px;
+  left: 875px;
+  top: 316px;
+  z-index: -2;
+  border-radius: 100px 240px 10px 120px;
+
+  background: #F1DED5;
+
+
+}
+
+/* Ellipse 12 */
+.main-styles3 {
+  /* Ellipse 12 */
+
+  position: absolute;
+  width: 429px;
+  height: 404px;
+  left: -52px;
+  top: 67px;
+  border-radius: 100%;
+  z-index: -2;
+
+  background: #F1DED5;
+
+}
+
+.main-styles4 {
+  /* Ellipse 13 */
+
+  position: absolute;
+  width: 127px;
+  height: 126px;
+  left: 604px;
+  top: 843px;
+  border-radius: 100%;
+  z-index: -2;
+
+
+  background: #F1DED5;
+}
+
+/* MEDIA QUERIES (SMALL DEVICES)  */
+@media screen and (max-width: 1600px) {
+  .main-container {
+    height: auto;
+    overflow: hidden;
+  }
+}

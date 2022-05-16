@@ -1,0 +1,21 @@
+/* .howItWorks-container {
+  height: 908px;
+  background: #FFFFFF;
+} */
+
+.influencer-container {
+  background: #F3E8E5;
+}
+
+.influencer-container h4 {
+  color: #E30000;
+}
+
+.influencer-container h3 {
+  font-weight: 900;
+}
+
+.influencer-btn {
+  background: linear-gradient(90deg, #F857A6 0%, #FF5858 100%);
+  border-radius: 8px;
+}
